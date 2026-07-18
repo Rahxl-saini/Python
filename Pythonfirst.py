@@ -5,6 +5,8 @@
 name = "Rahul Saini"
 age = 22
 price = 25.99
+old  = True
+a = None
 
 # print(name)
 # print(age)
@@ -23,6 +25,9 @@ price = 25.99
 # price2 = price
 # print(price2)
 
-print(type(name))
-print(type(age))
-print(type(price))
+# print(type(name))
+# print(type(age))
+# print(type(price))
+
+print(type(old))
+print(type(a))
