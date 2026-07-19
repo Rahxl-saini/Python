@@ -31,3 +31,9 @@ a = None
 
 print(type(old))
 print(type(a))
+
+a = 10
+b = 30
+# sum = a+b
+# print("sum of a and b is", sum);
+print(a+b)
