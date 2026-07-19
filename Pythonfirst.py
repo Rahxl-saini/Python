@@ -34,6 +34,20 @@ print(type(a))
 
 a = 10
 b = 30
-# sum = a+b
+sum = a+b
 # print("sum of a and b is", sum);
-print(a+b)
+# print(a+b)
+print(sum)
+
+
+#Arithmatic Operators
+
+c = 20
+d = 20
+
+print(c+d)
+print(c-d)
+print(c*d)
+print(c/d)
+print(c%d)
+print(c**d)
